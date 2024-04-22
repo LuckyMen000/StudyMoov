@@ -1,7 +1,7 @@
 ## How to start a project?
 ```shell
 git clone https://github.com/LuckyMen000/TechEduca
-cd TechEduca
+cd StudyMoov
 npm install
 node app.js 
 ```
